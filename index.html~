@@ -198,19 +198,14 @@
                                   
                                 </pre>
 
-                                (iii) We only selected questions that
-                                the owner of the question selected a
-                                preferred answer. As we need humans to
-                                analyze questions, we set a bound of a
-                                hundred questions per framework. We
-                                prioritized the questions obtained
-                                from our result sets according to a
-                                quality estimator previously used in
-                                other StackOverflow mining studies not
-                                mentioned here. More specifically, we
-                                sorted the questions in result sets in
-                                reverse order of their scores and
-                                extracted the first hundred entries.
+                                (iii) We only
+selected questions that the owner of the question selected a preferred
+answer. As we need humans to analyze questions, we set a bound of a
+hundred questions per framework. We prioritized the questions obtained
+from our result sets according to a quality estimator previously used
+in other StackOverflow mining stud- ies [59, 66–69]. More
+specifically, we sorted the questions in result sets in reverse order
+of their scores and extracted the first hundred entries.
                               </p>
                             </div>
                         </div>
